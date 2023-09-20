@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+.card_container {
+    width: 100%;
+    padding: 20px;
+    height: 100%;
+    background-color: #060e0b;
+}
+
+.movie_card {
+    background-color: #080808;
+    color: white;
+    border: none;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    border: 2px solid black;
+    margin: 90px;
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow:  2px 2px 2px 4px rgb(48, 1, 1);
+}
+
+
+.movie_container {
+    height: 30%;
+    width: 90%;
+    padding: 0.1rem;
+    font-size: small;
+    display: inline-flex;
+}
+
+.poster .poster {
+    height: 100px;
+    width: 80px;
+    padding: 0.5rem;
+}
+
+h2 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+}
+.details  {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+    margin-left: 8px;
+}
+.blue_content {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    color: rgba(143, 152, 254, 0.874);
+}
+span {
+    font-family: 'Work Sans', sans-serif;
+    font-size: medium;
+    font-size: 18px;
+}
+.movie_info {
+    margin: 10px;
+}
+
+.icon_container {
+    display: inline-flex;
+    gap: 10px;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+
+.img > .movie_banner{
+    height: 100%;
+    width: 100%;
+    box-shadow: 2px 2px 0px 0px black;
+}
+
+
+
+
+
+
+
+
+
+
